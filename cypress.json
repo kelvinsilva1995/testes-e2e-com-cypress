@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://notes-serverless-app.com",
+    "experimentalSessionSupport":true,
+    "experimentalStudio": true,
+    "env": {
+        "viewportWidthBreakpoint": 768
+      }
+}
